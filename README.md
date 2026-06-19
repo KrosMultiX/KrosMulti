@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Krosmulti Banner](https://github.com/KrosMulti-Dofus/KrosMulti/blob/main/logo.png)
+![Krosmulti Banner](https://github.com/KrosMultiX/KrosMulti/blob/main/logo.png)
 
 [![Version](https://img.shields.io/badge/version-2.5.0-00c4b0?style=for-the-badge)](https://www.krosmulti.com)
 [![Platform](https://img.shields.io/badge/platform-Windows-70b8ff?style=for-the-badge)](https://www.krosmulti.com/#download)
