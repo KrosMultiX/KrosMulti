@@ -20,7 +20,7 @@ Suivi d'archimonstres, gestion de team, auto focus, boss tracker — tout en une
 
 | Suivi Archimonstres | Gestion de Team | Vue par Personnage |
 |---|---|---|
-| ![Archimonstres](https://github.com/KrosMultiX/KrosMulti/blob/main/screenshot-archimonstres.jpg) | ![Team]([https://github.com/KrosMulti-Dofus/KrosMulti/blob/main/screenshot-archimonstres.png](https://github.com/KrosMultiX/KrosMulti/blob/main/screenshot-characters.jpg)) | ![Personnages]([https://github.com/KrosMulti-Dofus/KrosMulti/blob/main/screenshot-team.jpg](https://github.com/KrosMultiX/KrosMulti/blob/main/screenshot-team.jpg)) |
+| ![Archimonstres](https://github.com/KrosMultiX/KrosMulti/blob/main/screenshot-archimonstres.jpg) | ![Team]([https://github.com/KrosMulti-Dofus/KrosMulti/blob/main/screenshot-archimonstres.png](https://github.com/KrosMultiX/KrosMulti/blob/main/screenshot-characters.jpg)) | ![Personnages]([https://github.com/KrosMulti-Dofus/KrosMulti/blob/main/screenshot-team.jpg](https://github.com/KrosMultiX/KrosMulti/blob/main/screenshot-team.jpg) |
 
 ---
 
